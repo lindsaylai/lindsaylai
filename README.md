@@ -54,7 +54,7 @@
 
 ---
 
-### [Money Makers](https://github.com/davidzhangberkeley/Money-Makers) *(collaborator)*
+### Money Makers *(collaborator · private repo)*
 > Python sentiment analysis pipeline that processes financial news to predict stock price movements
 
 - Built news ingestion workflows via NewsAPI + Flask to aggregate real-time market data
