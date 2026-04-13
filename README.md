@@ -27,38 +27,19 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=py,java,js,ts,html,css,r)](https://skillicons.dev)
 
-**Data Science**
+**SWE & Backend**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+[![SWE](https://skillicons.dev/icons?i=nodejs,flask,firebase,postgres,git,github,githubactions,linux,postman,vscode)](https://skillicons.dev)
 
-**AI & Tools**
+**Data Science & AI**
 
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+[![Data](https://skillicons.dev/icons?i=sklearn,numpy,tensorflow,pytorch,opencv)](https://skillicons.dev)
 
 **Geospatial**
 
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox_GL_JS-000000?style=flat&logo=mapbox&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat)
-![OSMnx](https://img.shields.io/badge/OSMnx-7EBC6F?style=flat)
+[![Geo](https://skillicons.dev/icons?i=qgis,mapbox)](https://skillicons.dev)
 
 ---
 
@@ -85,11 +66,6 @@
 **Stack:** Flask · NewsAPI · PostgreSQL · scikit-learn · Matplotlib
 
 ---
-
-## GitHub Stats
-
-![Lindsay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lindsaylai&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lindsaylai&layout=compact&hide_border=true)
 
 ---
 
