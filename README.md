@@ -35,11 +35,9 @@
 
 **Data Science & AI**
 
-[![Data](https://skillicons.dev/icons?i=sklearn,numpy,tensorflow,pytorch,opencv)](https://skillicons.dev)
+[![Data](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv)](https://skillicons.dev)
 
-**Geospatial**
-
-[![Geo](https://skillicons.dev/icons?i=qgis,mapbox)](https://skillicons.dev)
+**Geospatial:** QGIS · GeoPandas · OSMnx · Mapbox GL JS · Leaflet
 
 ---
 
