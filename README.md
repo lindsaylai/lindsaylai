@@ -1,6 +1,6 @@
 # Hi, I'm Lindsay Lai 👋
 
-**CS @ UC Berkeley** · AI & Data Science · Geospatial ML · Building things that matter
+**CS @ UC Berkeley**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lindsay--hirasuka--lai-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lindsay-hirasuka-lai)
 [![Email](https://img.shields.io/badge/Email-llai@berkeley.edu-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:llai@berkeley.edu)
@@ -64,7 +64,7 @@
 
 ## Featured Projects
 
-### GIStice League
+### [GIStice League](https://github.com/davidzhangberkeley/GIStice-League) *(collaborator)*
 > Spatial machine learning platform analyzing grocery store inequities across San Francisco, Oakland, and Berkeley
 
 - Merges Census + OpenStreetMap data to build tract-level food accessibility layers
@@ -75,7 +75,7 @@
 
 ---
 
-### Money Maker
+### [Money Makers](https://github.com/davidzhangberkeley/Money-Makers) *(collaborator)*
 > Python sentiment analysis pipeline that processes financial news to predict stock price movements
 
 - Built news ingestion workflows via NewsAPI + Flask to aggregate real-time market data
