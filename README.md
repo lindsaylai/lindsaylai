@@ -49,6 +49,7 @@
 - Merges Census + OpenStreetMap data to build tract-level food accessibility layers
 - Trains supervised ML models (scikit-learn) to predict Food Access Scores and flag underserved areas
 - Interactive Mapbox GL JS maps with choropleths, city toggles, and demographic overlays
+- Link: https://gistice-league.onrender.com/
 
 **Stack:** QGIS · GeoPandas · OSMnx · scikit-learn · Mapbox GL JS
 
